@@ -34,6 +34,10 @@ Nesta aula, você vai:
 - Visualizar e entender o código gerado (React, TypeScript e componentização) e conhecer as opções de publicação e exportação para o GitHub.
 - Receber o desafio da aula: criar o seu próprio projeto, compartilhar no LinkedIn e marcar a Alura.
 
+### Resumo da aula com prompts utilizados
+
+[Resumo Aula 01](/summary-lesson1.md)
+
 ## Links úteis
 
 - [Guia de Mergulho](https://alura.tv/4xOI2Dv)
