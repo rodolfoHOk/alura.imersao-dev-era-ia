@@ -38,6 +38,26 @@ Nesta aula, você vai:
 
 [Resumo Aula 01](/summary-lesson1.md)
 
+## Aula 2 - Evolua seu software com skills e agentes
+
+### Introdução
+
+Chegou a hora de subir de nível! Depois de dar os primeiros passos com o Google AI Studio, você vai conhecer o Google Antigravity, a ferramenta que leva o desenvolvimento com IA para o dia a dia real de times de engenharia, com mais robustez, eficiência e controle.
+
+APROVEITE PARA ASSISTIR AGORA, A AULA ESTÁ DISPONÍVEL POR POUCOS DIAS!
+Nesta aula, você vai:
+
+- Entender as diferenças entre o Google AI Studio e o Google Antigravity.
+- Compreender como a IA transforma o ciclo de vida do software (SDLC), com o código como ativo e o humano como revisor e orquestrador.
+- Conhecer as diferentes formas de usar o Antigravity: aplicativo, CLI, IDEs e SDK.
+- Configurar o Antigravity CLI no Google Cloud Shell, com login, projeto, modelo e nível de esforço.
+- Aprender o método GCCD (Goal, Context, Constraints e Done When) para escrever prompts eficientes e controlar o consumo de tokens.
+- Explorar conceitos de Harness, Context Engineering, Skills, MCP e Agents.md, que deixam o desenvolvimento com IA mais eficiente.
+
+### Slides da aula 02
+
+[Slides Aula 02](/slides-lesson2.md)
+
 ## Links úteis
 
 - [Guia de Mergulho](https://alura.tv/4xOI2Dv)
@@ -47,5 +67,9 @@ Nesta aula, você vai:
 - [Google Antigravity](https://antigravity.google/)
 
 - [Guia do Google AI Studio (documentação oficial Google)](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart?hl=pt-br)
+
+- [Blog Google Antigravity](https://antigravity.google/blog/)
+
+- [Documentação oficial Google Antigravity](https://antigravity.google/docs/overview/)
 
 - [Repositório do projeto (original da Alura)](https://github.com/alura-cursos/imersao-dev-ai-google)
