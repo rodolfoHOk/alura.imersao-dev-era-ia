@@ -1,5 +1,7 @@
 # Imersão Engenharia de Software: Dev na Era da IA
 
+> Evento On-line Alura e Google 26/10/2026 - 03/11/2026
+
 ## Master Class
 
 ### Introdução
@@ -24,7 +26,6 @@ Prepare-se para colocar a mão na massa, testar suas primeiras soluções com ag
 
 Chegou a hora de começar a construir com Inteligência Artificial! Você vai conhecer o Google AI Studio e descobrir como sair de uma ideia e chegar a uma aplicação web funcionando em poucos minutos, usando apenas uma conta Google e prompts bem estruturados.
 
-APROVEITE PARA ASSISTIR AGORA, A AULA ESTÁ DISPONÍVEL POR POUCOS DIAS!
 Nesta aula, você vai:
 
 - Explorar o Google AI Studio e seus principais recursos: Playground, System Instructions e Build e Gallery.
@@ -44,7 +45,6 @@ Nesta aula, você vai:
 
 Chegou a hora de subir de nível! Depois de dar os primeiros passos com o Google AI Studio, você vai conhecer o Google Antigravity, a ferramenta que leva o desenvolvimento com IA para o dia a dia real de times de engenharia, com mais robustez, eficiência e controle.
 
-APROVEITE PARA ASSISTIR AGORA, A AULA ESTÁ DISPONÍVEL POR POUCOS DIAS!
 Nesta aula, você vai:
 
 - Entender as diferenças entre o Google AI Studio e o Google Antigravity.
@@ -57,6 +57,27 @@ Nesta aula, você vai:
 ### Slides da aula 02
 
 [Slides Aula 02](/slides-lesson2.md)
+
+## Aula 3 - Conectando o projeto a um agente de IA
+
+### Introdução
+
+Chegou a hora de colocar a mão na massa! Você vai aplicar o Google Antigravity em um projeto real, desenvolvendo do zero um agente de IA que monta planos de estudo personalizados e gera uma agenda pronta para importar no Google Calendar.
+
+Nesta aula, você vai:
+
+- Estruturar o projeto com o arquivo Agents.md, seguindo a metodologia GCCD, e organizar as skills do seu agente.
+- Conhecer o Google ADK (Agent Development Kit), framework open source para criar agentes, e seus recursos como Skills Toolset e Environment Toolset.
+- Clonar o repositório no Cloud Shell e usar o Antigravity CLI para desenvolver o agente, incluindo a instalação das skills do Agents CLI.
+- Testar o agente na interface do ADK Web, acompanhando eventos, traces e o uso de skills sob demanda.
+- Aprender a depurar com a IA, corrigindo erros durante o desenvolvimento e validando soluções.
+- Testar a funcionalidade do projeto e validar sua proposta antes de avançar para integrações mais complexas.
+
+### Guia da aula e Código Fonte
+
+[Guia Aula 03](/src/README.md)
+
+[Código Fonte](/src/)
 
 ## Links úteis
 
