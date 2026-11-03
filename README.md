@@ -39,6 +39,32 @@ Nesta aula, você vai:
 
 [Resumo Aula 01](/summary-lesson1.md)
 
+### Desafio 1: Criando sua primeira aplicação com IA
+
+Agora que você conheceu algumas possibilidades da Inteligência Artificial no desenvolvimento de software, chegou a hora de colocar a mão na massa! O desafio é usar o Google AI Studio para gerar uma calculadora em Python com as quatro operações básicas (adição, subtração, multiplicação e divisão) e entender como a aplicação funciona.
+
+Depois de gerar o código, explore a solução com a ajuda da IA e procure responder:
+
+Quais são os principais componentes do código gerado?
+
+Como a aplicação recebe os números e identifica a operação escolhida?
+
+Como a lógica de programação é utilizada para realizar os cálculos e apresentar os resultados?
+
+Experimente também realizar diferentes operações e observar como a aplicação se comporta.
+
+O objetivo não é dominar Python de imediato, e sim começar a compreender como instruções, variáveis e condições são utilizadas na construção de um software.
+
+💡 Dica para solucionar
+
+Comece descrevendo ao Google AI Studio o que deseja construir:
+
+"Quero criar uma calculadora simples em Python que realize as quatro operações matemáticas básicas. Estou começando a aprender programação, então gere um código simples e organizado, com explicações sobre seus principais componentes."
+
+Depois de gerar a solução, continue conversando com a IA: peça para explicar uma parte do código, identificar as variáveis utilizadas ou mostrar como a aplicação decide qual operação executar.
+
+Mais importante do que gerar o código é entender a lógica por trás dele. Bora lá?
+
 ## Aula 2 - Evolua seu software com skills e agentes
 
 ### Introdução
@@ -57,6 +83,36 @@ Nesta aula, você vai:
 ### Slides da aula 02
 
 [Slides Aula 02](/slides-lesson2.md)
+
+### Desafio 2: Evoluindo sua primeira aplicação com o Google Antigravity
+
+No primeiro desafio, a IA ajudou a criar uma calculadora em Python. Agora damos um passo adiante: o desafio é usar o Google Antigravity para criar ou importar o projeto da calculadora e modificar a aplicação existente.
+
+Isso envolve três atividades:
+
+Explorar o projeto: peça ao Antigravity para identificar os arquivos e explicar como o código está organizado.
+
+Adicionar uma funcionalidade: solicite a implementação de uma nova operação, como o cálculo de porcentagem.
+
+Testar a aplicação: peça à IA para verificar se a nova funcionalidade funciona corretamente, sem comprometer as operações anteriores.
+
+Depois, execute a aplicação e observe as mudanças feitas no código.
+
+O objetivo é praticar uma atividade comum na Engenharia de Software: compreender um código existente, implementar melhorias e verificar se tudo continua funcionando.
+
+💡 Dica para solucionar
+
+Comece fornecendo contexto ao Google Antigravity:
+
+"Tenho um projeto de calculadora em Python que realiza as quatro operações matemáticas básicas. Estou começando a aprender programação e quero entender como os arquivos e as funções estão organizados. Analise o projeto e explique sua estrutura de maneira simples."
+
+Depois, solicite a melhoria:
+
+"Agora quero adicionar uma funcionalidade para calcular porcentagens. Implemente essa operação mantendo as funcionalidades existentes e explique quais alterações foram realizadas no código."
+
+Por fim, peça ao Antigravity para ajudar a testar a aplicação e verificar os resultados.
+
+Desenvolver software não significa apenas escrever código: envolve compreender, modificar e testar soluções. É hora de seguir se desafiando!
 
 ## Aula 3 - Conectando o projeto a um agente de IA
 
@@ -78,6 +134,34 @@ Nesta aula, você vai:
 [Guia Aula 03](/src/README.md)
 
 [Código Fonte](/src/)
+
+### Desafio 3: Criando uma lista de tarefas com o Google Antigravity
+
+Depois de compreender, modificar e testar códigos, chegou a hora de construir uma nova aplicação! O desafio é usar o Google Antigravity para desenvolver uma lista de tarefas (To-Do List) simples, com interface visual, que permita acompanhar atividades pendentes e concluídas.
+
+A aplicação deve ter três funcionalidades:
+
+Adicionar tarefas: digitar uma atividade e incluí-la na lista.
+
+Marcar tarefas como concluídas: identificar as atividades já realizadas.
+
+Remover tarefas: excluir atividades que não são mais necessárias.
+
+Depois, execute o projeto para experimentar as funcionalidades e observe como a aplicação organiza as informações e como os componentes do código trabalham juntos.
+
+💡 Dica para solucionar
+
+Comece descrevendo ao Google Antigravity o que deseja desenvolver:
+
+"Quero criar uma aplicação simples de lista de tarefas, com uma interface visual que permita adicionar, concluir e remover atividades. Estou começando a aprender desenvolvimento de software, então utilize tecnologias simples e organize o projeto de maneira que eu consiga compreender seus principais componentes."
+
+Depois, experimente solicitar uma melhoria:
+
+"Quero que as tarefas concluídas apareçam visualmente diferentes das pendentes. Implemente essa melhoria e explique quais partes do código precisaram ser modificadas."
+
+Por fim, peça ao Antigravity para executar os testes necessários e verificar se as funcionalidades continuam funcionando.
+
+Compreender o que está sendo desenvolvido e validar os resultados faz parte do trabalho de uma pessoa desenvolvedora. Bora concluir esse último desafio?
 
 ## Links úteis
 
