@@ -163,6 +163,10 @@ Por fim, peça ao Antigravity para executar os testes necessários e verificar s
 
 Compreender o que está sendo desenvolvido e validar os resultados faz parte do trabalho de uma pessoa desenvolvedora. Bora concluir esse último desafio?
 
+## Live de Encerramento: Deploy
+
+[Slides Live de Encerramento](/slides-live.md)
+
 ## Links úteis
 
 - [Guia de Mergulho](https://alura.tv/4xOI2Dv)
