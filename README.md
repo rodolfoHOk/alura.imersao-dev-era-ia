@@ -182,3 +182,7 @@ Compreender o que está sendo desenvolvido e validar os resultados faz parte do 
 - [Documentação oficial Google Antigravity](https://antigravity.google/docs/overview/)
 
 - [Repositório do projeto (original da Alura)](https://github.com/alura-cursos/imersao-dev-ai-google)
+
+## Certificado
+
+[PDF](/certificado.pdf)
